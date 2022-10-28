@@ -1,0 +1,37 @@
+p{
+    color: brown;
+}
+
+h1{
+    color: rgb(21, 113, 194);
+}
+
+h3{
+    color: aquamarine;
+}
+
+#encabezado-cuatro{
+    color: coral;
+}
+
+#parrafo{
+    color: crimson;
+}
+
+.color-silver{
+    color: silver;
+}
+
+.colorcito{
+    color: bisque;
+}
+
+body{
+    background-image: url(https://i.pinimg.com/originals/af/fc/ef/affcefdc5c8338d91918c5db0f168fda.jpg);
+    background-size: cover;
+}
+
+.fondo{
+    color: darkorange;
+    background-color: bisque;
+}
